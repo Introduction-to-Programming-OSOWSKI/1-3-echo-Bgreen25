@@ -1,3 +1,2 @@
-def echo(w):
-    return w*2
-
+def echo(w, x):
+    return w * x
